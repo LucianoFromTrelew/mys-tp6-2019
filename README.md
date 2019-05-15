@@ -1,4 +1,4 @@
-# Trabajo práctico N5
+# Trabajo práctico N6
 
 ## Modelos y Simulaciones - 2019
 
@@ -19,4 +19,4 @@
 **Ejecutar los siguientes comandos con `python3`**
 
 - Instalar las dependencias con `pip install -r requirements.txt`
-- Ejecutar `jupyter-notebook` y abrir el archivo `tp5.ipynb`
+- Ejecutar `jupyter-notebook` y abrir el archivo `tp6.ipynb`
